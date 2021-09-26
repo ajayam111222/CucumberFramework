@@ -1,0 +1,283 @@
+2021-08-17 17:34:03,990  INFO [main] orange hrm:22 - ------------starting driver--------------
+ 2021-08-17 17:34:11,189  INFO [main] orange hrm:31 - ------------opening application url--------------
+ 2021-08-17 17:34:11,190  INFO [main] orange hrm:36 - --------entering the username-------------
+ 2021-08-17 17:34:11,330  INFO [main] orange hrm:38 - --------entering the password-------------
+ 2021-08-17 17:34:11,460  INFO [main] orange hrm:44 - --------clicking on the login button-------------
+ 2021-08-17 17:34:17,039  INFO [main] orange hrm:52 - --------capturing the tittle -------------
+ 2021-08-17 17:34:17,056  INFO [main] orange hrm:60 - --------clicking on the logout button -------------
+ 2021-08-17 17:34:18,364  INFO [main] orange hrm:67 - --------capturing the tittle -------------
+ 2021-08-17 17:34:18,382  INFO [main] orange hrm:74 - -----------close the browser --------------
+ 2021-08-17 18:01:48,557  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-08-17 18:01:48,565  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-08-17 18:01:48,699  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-08-17 18:01:48,827  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-08-17 18:01:54,378  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-08-17 18:01:54,392  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-08-17 18:01:55,673  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-08-17 18:01:55,692  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-08-17 19:19:16,129  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-08-17 19:19:16,135  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-08-17 19:19:16,258  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-08-17 19:19:16,383  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-08-17 19:19:20,986  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-08-17 19:19:21,003  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-08-17 19:19:22,287  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-08-17 19:19:22,312  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-08-17 19:36:42,715  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-08-17 19:36:42,736  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-08-17 19:36:42,900  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-08-17 19:36:43,063  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-08-17 19:36:47,857  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-08-17 19:36:47,871  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-08-17 19:36:49,122  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-08-17 19:36:49,138  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-08-17 19:48:45,260  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-08-17 19:48:45,289  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-08-17 19:48:45,457  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-08-17 19:48:45,605  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-08-17 19:48:50,405  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-08-17 19:48:50,420  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-08-17 19:48:51,690  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-08-17 19:48:51,715  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-09-25 14:26:12,386  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 14:26:12,391  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 14:26:12,534  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 14:26:12,666  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 14:26:14,381  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 14:26:14,391  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 14:27:09,329  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 14:27:09,334  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 14:27:09,460  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 14:27:09,587  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 14:27:11,421  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 14:27:11,431  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 14:29:28,514  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 14:29:28,550  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 14:29:28,688  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 14:29:28,817  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 14:29:29,948  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 14:29:29,956  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 14:33:15,574  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 14:33:15,596  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 14:33:15,742  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 14:33:15,870  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 14:33:20,991  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 14:33:21,001  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 14:33:22,277  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-09-25 14:33:22,289  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-09-25 15:09:36,571  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:09:36,576  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:09:36,704  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:09:36,844  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:09:41,852  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:09:41,863  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:09:43,073  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-09-25 15:09:43,086  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-09-25 15:09:50,932  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:09:50,933  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:09:51,061  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:09:51,203  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:09:52,313  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:09:52,321  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:09:58,378  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:09:58,379  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:09:58,513  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:09:58,658  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:10:00,108  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:10:00,118  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:10:06,412  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:10:06,413  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:10:06,572  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:10:06,710  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:10:08,008  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:10:08,022  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:10:15,060  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:10:15,061  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:10:15,194  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:10:15,340  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:10:20,547  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:10:20,559  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:10:21,851  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-09-25 15:10:21,865  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-09-25 15:18:11,871  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:18:11,876  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:18:12,046  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:18:12,217  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:18:17,049  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:18:17,065  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:18:18,371  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-09-25 15:18:18,392  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-09-25 15:18:25,053  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:18:25,054  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:18:25,202  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:18:25,332  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:18:26,485  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:18:26,503  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:18:35,264  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:18:35,265  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:18:35,411  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:18:35,583  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:18:36,953  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:18:36,970  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:18:45,002  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:18:45,004  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:18:45,184  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:18:45,344  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:18:46,251  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:18:46,262  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:18:53,194  INFO [main] orange hrm:63 - ------------opening application url--------------
+ 2021-09-25 15:18:53,196  INFO [main] orange hrm:68 - --------entering the username-------------
+ 2021-09-25 15:18:53,359  INFO [main] orange hrm:70 - --------entering the password-------------
+ 2021-09-25 15:18:53,500  INFO [main] orange hrm:76 - --------clicking on the login button-------------
+ 2021-09-25 15:18:59,011  INFO [main] orange hrm:84 - --------capturing the tittle -------------
+ 2021-09-25 15:18:59,022  INFO [main] orange hrm:92 - --------clicking on the logout button -------------
+ 2021-09-25 15:19:00,196  INFO [main] orange hrm:99 - --------capturing the tittle -------------
+ 2021-09-25 15:19:00,212  INFO [main] orange hrm:106 - -----------close the browser --------------
+ 2021-09-25 17:32:10,245  INFO [main] orange hrm:65 - ------------opening application url--------------
+ 2021-09-25 17:32:10,250  INFO [main] orange hrm:70 - --------entering the username-------------
+ 2021-09-25 17:32:10,408  INFO [main] orange hrm:72 - --------entering the password-------------
+ 2021-09-25 17:32:10,567  INFO [main] orange hrm:78 - --------clicking on the login button-------------
+ 2021-09-25 17:32:12,556  INFO [main] orange hrm:86 - --------capturing the tittle -------------
+ 2021-09-25 17:32:28,131  INFO [main] orange hrm:65 - ------------opening application url--------------
+ 2021-09-25 17:32:28,132  INFO [main] orange hrm:70 - --------entering the username-------------
+ 2021-09-25 17:32:28,264  INFO [main] orange hrm:72 - --------entering the password-------------
+ 2021-09-25 17:32:28,406  INFO [main] orange hrm:78 - --------clicking on the login button-------------
+ 2021-09-25 17:32:30,037  INFO [main] orange hrm:86 - --------capturing the tittle -------------
+ 2021-09-25 17:32:30,047  INFO [main] orange hrm:94 - --------clicking on the logout button -------------
+ 2021-09-25 17:33:58,377  INFO [main] orange hrm:65 - ------------opening application url--------------
+ 2021-09-25 17:33:58,384  INFO [main] orange hrm:70 - --------entering the username-------------
+ 2021-09-25 17:33:58,507  INFO [main] orange hrm:72 - --------entering the password-------------
+ 2021-09-25 17:33:58,635  INFO [main] orange hrm:78 - --------clicking on the login button-------------
+ 2021-09-25 17:34:06,841  INFO [main] orange hrm:86 - --------capturing the tittle -------------
+ 2021-09-25 17:34:06,855  INFO [main] orange hrm:94 - --------clicking on the logout button -------------
+ 2021-09-25 17:34:08,134  INFO [main] orange hrm:101 - --------capturing the tittle -------------
+ 2021-09-25 17:34:08,145  INFO [main] orange hrm:108 - -----------close the browser --------------
+ 2021-09-25 17:34:15,728  INFO [main] orange hrm:65 - ------------opening application url--------------
+ 2021-09-25 17:34:15,729  INFO [main] orange hrm:70 - --------entering the username-------------
+ 2021-09-25 17:34:15,845  INFO [main] orange hrm:72 - --------entering the password-------------
+ 2021-09-25 17:34:15,971  INFO [main] orange hrm:78 - --------clicking on the login button-------------
+ 2021-09-25 17:34:17,344  INFO [main] orange hrm:86 - --------capturing the tittle -------------
+ 2021-09-25 17:34:17,355  INFO [main] orange hrm:94 - --------clicking on the logout button -------------
+ 2021-09-25 17:34:25,266  INFO [main] orange hrm:65 - ------------opening application url--------------
+ 2021-09-25 17:34:25,268  INFO [main] orange hrm:70 - --------entering the username-------------
+ 2021-09-25 17:34:25,418  INFO [main] orange hrm:72 - --------entering the password-------------
+ 2021-09-25 17:34:25,561  INFO [main] orange hrm:78 - --------clicking on the login button-------------
+ 2021-09-25 17:34:26,843  INFO [main] orange hrm:86 - --------capturing the tittle -------------
+ 2021-09-25 17:34:26,855  INFO [main] orange hrm:94 - --------clicking on the logout button -------------
+ 2021-09-25 17:34:33,448  INFO [main] orange hrm:65 - ------------opening application url--------------
+ 2021-09-25 17:34:33,449  INFO [main] orange hrm:70 - --------entering the username-------------
+ 2021-09-25 17:34:33,596  INFO [main] orange hrm:72 - --------entering the password-------------
+ 2021-09-25 17:34:33,751  INFO [main] orange hrm:78 - --------clicking on the login button-------------
+ 2021-09-25 17:34:34,799  INFO [main] orange hrm:86 - --------capturing the tittle -------------
+ 2021-09-25 17:34:34,810  INFO [main] orange hrm:94 - --------clicking on the logout button -------------
+ 2021-09-25 17:34:41,876  INFO [main] orange hrm:65 - ------------opening application url--------------
+ 2021-09-25 17:34:41,877  INFO [main] orange hrm:70 - --------entering the username-------------
+ 2021-09-25 17:34:42,022  INFO [main] orange hrm:72 - --------entering the password-------------
+ 2021-09-25 17:34:42,178  INFO [main] orange hrm:78 - --------clicking on the login button-------------
+ 2021-09-25 17:34:47,366  INFO [main] orange hrm:86 - --------capturing the tittle -------------
+ 2021-09-25 17:34:47,381  INFO [main] orange hrm:94 - --------clicking on the logout button -------------
+ 2021-09-25 17:34:48,736  INFO [main] orange hrm:101 - --------capturing the tittle -------------
+ 2021-09-25 17:34:48,748  INFO [main] orange hrm:108 - -----------close the browser --------------
+ 2021-09-25 19:31:11,219  INFO [main] orange hrm:69 - ------------opening application url--------------
+ 2021-09-25 19:31:11,250  INFO [main] orange hrm:74 - --------entering the username-------------
+ 2021-09-25 19:31:11,392  INFO [main] orange hrm:76 - --------entering the password-------------
+ 2021-09-25 19:31:11,516  INFO [main] orange hrm:82 - --------clicking on the login button-------------
+ 2021-09-25 19:31:17,002  INFO [main] orange hrm:90 - --------capturing the tittle -------------
+ 2021-09-25 19:31:17,014  INFO [main] orange hrm:98 - --------clicking on the logout button -------------
+ 2021-09-25 19:31:18,334  INFO [main] orange hrm:105 - --------capturing the tittle -------------
+ 2021-09-25 19:31:18,351  INFO [main] orange hrm:112 - -----------close the browser --------------
+ 2021-09-25 19:31:27,011  INFO [main] orange hrm:69 - ------------opening application url--------------
+ 2021-09-25 19:31:27,012  INFO [main] orange hrm:74 - --------entering the username-------------
+ 2021-09-25 19:31:27,129  INFO [main] orange hrm:76 - --------entering the password-------------
+ 2021-09-25 19:31:27,259  INFO [main] orange hrm:82 - --------clicking on the login button-------------
+ 2021-09-25 19:31:28,787  INFO [main] orange hrm:90 - --------capturing the tittle -------------
+ 2021-09-25 19:31:28,799  INFO [main] orange hrm:98 - --------clicking on the logout button -------------
+ 2021-09-25 19:31:34,578  INFO [main] orange hrm:69 - ------------opening application url--------------
+ 2021-09-25 19:31:34,579  INFO [main] orange hrm:74 - --------entering the username-------------
+ 2021-09-25 19:31:34,728  INFO [main] orange hrm:76 - --------entering the password-------------
+ 2021-09-25 19:31:34,883  INFO [main] orange hrm:82 - --------clicking on the login button-------------
+ 2021-09-25 19:31:36,445  INFO [main] orange hrm:90 - --------capturing the tittle -------------
+ 2021-09-25 19:31:36,456  INFO [main] orange hrm:98 - --------clicking on the logout button -------------
+ 2021-09-25 19:31:43,653  INFO [main] orange hrm:69 - ------------opening application url--------------
+ 2021-09-25 19:31:43,655  INFO [main] orange hrm:74 - --------entering the username-------------
+ 2021-09-25 19:31:43,874  INFO [main] orange hrm:76 - --------entering the password-------------
+ 2021-09-25 19:31:44,055  INFO [main] orange hrm:82 - --------clicking on the login button-------------
+ 2021-09-25 19:31:45,486  INFO [main] orange hrm:90 - --------capturing the tittle -------------
+ 2021-09-25 19:31:45,498  INFO [main] orange hrm:98 - --------clicking on the logout button -------------
+ 2021-09-25 19:31:51,591  INFO [main] orange hrm:69 - ------------opening application url--------------
+ 2021-09-25 19:31:51,592  INFO [main] orange hrm:74 - --------entering the username-------------
+ 2021-09-25 19:31:51,717  INFO [main] orange hrm:76 - --------entering the password-------------
+ 2021-09-25 19:31:51,858  INFO [main] orange hrm:82 - --------clicking on the login button-------------
+ 2021-09-25 19:31:56,378  INFO [main] orange hrm:90 - --------capturing the tittle -------------
+ 2021-09-25 19:31:56,388  INFO [main] orange hrm:98 - --------clicking on the logout button -------------
+ 2021-09-25 19:31:57,522  INFO [main] orange hrm:105 - --------capturing the tittle -------------
+ 2021-09-25 19:31:57,540  INFO [main] orange hrm:112 - -----------close the browser --------------
+ 2021-09-26 18:46:12,103  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:46:12,135  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:46:12,303  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:46:12,459  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:46:18,418  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:46:18,427  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:46:20,921  INFO [main] orange hrm:107 - --------capturing the tittle -------------
+ 2021-09-26 18:46:20,929  INFO [main] orange hrm:114 - -----------close the browser --------------
+ 2021-09-26 18:46:29,780  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:46:29,782  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:46:29,928  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:46:30,072  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:46:31,560  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:46:31,567  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:46:41,354  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:46:41,355  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:46:41,498  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:46:41,624  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:46:42,849  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:46:42,857  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:46:49,729  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:46:49,730  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:46:49,879  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:46:50,072  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:46:51,504  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:46:51,523  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:46:58,765  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:46:58,766  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:46:58,896  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:46:59,015  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:47:04,644  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:47:04,654  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:47:06,102  INFO [main] orange hrm:107 - --------capturing the tittle -------------
+ 2021-09-26 18:47:06,123  INFO [main] orange hrm:114 - -----------close the browser --------------
+ 2021-09-26 18:52:38,942  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:52:38,946  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:52:39,051  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:52:39,163  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:52:44,115  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:52:44,125  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:52:45,415  INFO [main] orange hrm:107 - --------capturing the tittle -------------
+ 2021-09-26 18:52:45,430  INFO [main] orange hrm:114 - -----------close the browser --------------
+ 2021-09-26 18:52:52,387  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:52:52,389  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:52:52,510  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:52:52,648  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:52:54,311  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:52:54,318  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:53:01,671  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:53:01,672  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:53:01,782  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:53:01,884  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:53:02,939  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:53:02,947  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:53:09,091  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:53:09,092  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:53:09,256  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:53:09,386  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:53:10,210  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:53:10,229  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:53:16,065  INFO [main] orange hrm:71 - ------------opening application url--------------
+ 2021-09-26 18:53:16,067  INFO [main] orange hrm:76 - --------entering the username-------------
+ 2021-09-26 18:53:16,201  INFO [main] orange hrm:78 - --------entering the password-------------
+ 2021-09-26 18:53:16,373  INFO [main] orange hrm:84 - --------clicking on the login button-------------
+ 2021-09-26 18:53:21,506  INFO [main] orange hrm:92 - --------capturing the tittle -------------
+ 2021-09-26 18:53:21,519  INFO [main] orange hrm:100 - --------clicking on the logout button -------------
+ 2021-09-26 18:53:22,923  INFO [main] orange hrm:107 - --------capturing the tittle -------------
+ 2021-09-26 18:53:22,931  INFO [main] orange hrm:114 - -----------close the browser --------------
+ 
